@@ -62,19 +62,14 @@
 
 ---
 
-### 🚧 Current Mission Sprints
-<p align="center">
-<img src="https://img.shields.io/badge/PhishGuard_AI-Active-00d2ff?style=for-the-badge&logo=ai" />
-<img src="https://img.shields.io/badge/SOC_SIEM_Lab-Setup-blue?style=for-the-badge&logo=fortinet" />
-<img src="https://img.shields.io/badge/Java_DSA-Learning-orange?style=for-the-badge&logo=java" />
-</p>
-
-| Task | Progress | Milestone |
+### 🚧 Current Sprints (Progress Tracker)
+| Project Module | Development Progress | Status |
 | :--- | :--- | :--- |
-| **PhishGuard AI Engine** | ![70%](https://geps.dev/progress/70?dangerColor=00d2ff&warningColor=00d2ff&successColor=00d2ff) | Beta Release |
-| **SOC L1 Training** | ![50%](https://geps.dev/progress/50?dangerColor=00d2ff&warningColor=00d2ff&successColor=00d2ff) | Lab Config |
-| **Java DSA** | ![65%](https://geps.dev/progress/65?dangerColor=00d2ff&warningColor=00d2ff&successColor=00d2ff) | Trees & Graphs |
+| **PhishGuard AI Engine** | ![70%](https://geps.dev/progress/70?dangerColor=00d2ff&warningColor=00d2ff&successColor=00d2ff) | 🟢 Active |
+| **SOC SIEM Lab Setup** | ![50%](https://geps.dev/progress/50?dangerColor=00d2ff&warningColor=00d2ff&successColor=00d2ff) | 🟡 In-Progress |
+| **Advanced Java / DSA** | ![65%](https://geps.dev/progress/65?dangerColor=00d2ff&warningColor=00d2ff&successColor=00d2ff) | 🔵 Learning |
 
+---
 ---
 
 ### 📊 Performance Analytics
