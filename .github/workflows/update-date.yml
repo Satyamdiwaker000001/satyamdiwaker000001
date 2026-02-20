@@ -1,0 +1,30 @@
+name: Update README Date
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *' # Har raat 12 baje bhi khud update hoga
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate Date
+        run: |
+          echo "CURRENT_DATE=$(date +'%d %b %Y')" >> $GITHUB_ENV
+
+      - name: Inject Date into README
+        run: |
+          sed -i '//,//c\\n<p align="center"><i>🔄 Last System Sync: ${{ env.CURRENT_DATE }}</i></p>\n' README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "docs: automated date update" || exit 0
+          git push
