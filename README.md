@@ -1,114 +1,118 @@
-### Hi👋, <br> &nbsp; <i>I am</i>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Satyam+Diwaker;Cybersecurity+Enthusiast;Full-Stack+Developer;B.Tech+Student" alt="Typing SVG" />
 
-  <p align="center">
-    <img src="https://img.shields.io/github/followers/Satyamdiwaker000001?label=Followers&style=for-the-badge&logo=github&color=00d2ff" />
-    <img src="https://komarev.com/ghpvc/?username=Satyamdiwaker000001&label=PROFILE+VIEWS&color=00d2ff&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Commits-Active-00d2ff?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
+# Hi, I'm Satyam Diwaker 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=B.Tech+Student;Cybersecurity+Enthusiast;Full-Stack+Developer;Learning+AI+%26+Security" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Satyamdiwaker000001&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Satyamdiwaker000001?label=Followers&style=flat-square" />
+
 </div>
 
 ---
 
-### 📡 System Diagnostics
-- 🎓 **Identity:** B.Tech Student | Future SOC Analyst.
-- 🛡️ **Current Mission:** Scaling **PhishGuard** — An AI-based Threat Detection Ecosystem.
-- 💻 **Dev Core:** Specialized in **NestJS, TypeScript, & Python**.
-- 🎯 **Current Focus:** SIEM Labs, Honeypots, and Advanced Java DSA.
-- 🏏 **Sports:** Fast-bowling All-rounder (Yorker Specialist).
+## About Me
+
+* 🎓 B.Tech Student
+* 🛡️ Interested in Cybersecurity and Threat Detection
+* 💻 Building projects with TypeScript, Python, Java, and Web Technologies
+* 🌱 Currently learning SIEM, SOC workflows, and Advanced DSA
+* 🚀 Exploring AI-powered security applications
 
 ---
+## Tech Stack
 
-### 🛠️ Technical Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,ts,js,html,css,nestjs,react,tailwind,mysql,git,vite,fastapi,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,java,py,ts,js,html,css,nestjs,react,tailwind,mysql,git,vite,fastapi,cpp&theme=dark" />
 </p>
 
 ---
 
-### 🛡️ Featured Project: PhishGuard AI
+## Featured Project
+
+### PhishGuard
+
+AI-assisted phishing detection and threat analysis platform.
+
+**Tech Stack:** Python • FastAPI • NestJS • MySQL • Flutter
+
+**Highlights**
+
+* URL and phishing detection workflows
+* Backend APIs using NestJS & FastAPI
+* Dashboard and monitoring interface
+* Ongoing development and experimentation
+
+🔗 Repository:
+https://github.com/Satyamdiwaker000001/PhishGuard
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <table border="1">
-    <tr>
-      <td width="100%">
-        <p align="center">
-          <b>📂 Repository:</b> <a href="https://github.com/Satyamdiwaker000001/PhishGuard">Satyamdiwaker000001/PhishGuard</a>
-          <br/>
-          <img src="https://img.shields.io/badge/Status-Active%20Development-00d2ff?style=for-the-badge&logo=github" />
-          <img src="https://img.shields.io/badge/Security-AI%20Powered-red?style=for-the-badge&logo=target" />
-        </p>
-        <hr/>
-        <p align="left">
-          &nbsp;&nbsp;<b>PhishGuard</b> ek intelligent ecosystem hai jo AI ka use karke real-time threats ko neutralize karta hai.
-          <br/><br/>
-          &nbsp;&nbsp;✨ <b>Technical Highlights:</b><br/>
-          &nbsp;&nbsp;• <b>AI-Engine:</b> Python & FastAPI based Zero-Day Detection.<br/>
-          &nbsp;&nbsp;• <b>Backend:</b> Scalable Architecture using NestJS & MySQL.<br/>
-          &nbsp;&nbsp;• <b>Frontend:</b> Cross-platform dashboard built with Flutter.
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-          <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Satyamdiwaker000001&show_icons=true&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamdiwaker000001&layout=compact&hide_border=true" />
+
 </div>
 
----
+<br>
 
-### 🚧 Current Sprints (Progress Tracker)
-| Project Module | Development Progress | Status |
-| :--- | :--- | :--- |
-| **PhishGuard AI Engine** | ![70%](https://geps.dev/progress/70?dangerColor=00d2ff&warningColor=00d2ff&successColor=00d2ff) | 🟢 Active |
-| **SOC SIEM Lab Setup** | ![50%](https://geps.dev/progress/50?dangerColor=00d2ff&warningColor=00d2ff&successColor=00d2ff) | 🟡 In-Progress |
-| **Advanced Java / DSA** | ![65%](https://geps.dev/progress/65?dangerColor=00d2ff&warningColor=00d2ff&successColor=00d2ff) | 🔵 Learning |
-
----
----
-
-### 📊 Performance Analytics
-*Live data tracking of commits, PRs, and coding consistency.*
+## Development Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyamdiwaker000001&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Satyamdiwaker000001&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyamdiwaker000001&theme=github-compact&hide_border=true" width="100%" />
 </p>
 
 ---
+
+
+## Journey
+
+```text
+2024
+│
+├─ Started Java & Web Development
+│
+2025
+│
+├─ Built Full-Stack Projects
+├─ Learned React & NestJS
+│
+2026
+│
+├─ AI Agents
+├─ RAG Applications
+├─ PhishGuard Development
+│
+Next
+│
+├─ SIEM & Cybersecurity Labs
+├─ SOC Projects
+├─ Cloud Security
+└─ Security Automation
+```
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/Satyamdiwaker000001">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <div align="center">
-  <h3>🚀 Let's Innovate . Secure . Develop</h3>
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-    </a>
-    &nbsp;
-    <a href="mailto:your_email@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-    </a>
-    &nbsp;
-    <a href="https://github.com/Satyamdiwaker000001">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-    </a>
-  </p>
-
-  <br />
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" alt="Daily Quote" />
-
-  <br /><br />
-  
-  <img src="https://geps.dev/progress/100?width=1000&strokeWidth=2&color=00d2ff" width="100%" alt="Footer Divider" />
-  
-  <p><i>Last Updated: February 2026</i></p>
+  <sub>Always learning, building, and improving.</sub>
 </div>
