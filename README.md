@@ -36,7 +36,7 @@
 
 AI-assisted phishing detection and threat analysis platform.
 
-**Tech Stack:** Python • FastAPI • NestJS • MySQL • Flutter
+**Tech Stack:** Python • FastAPI • NestJS • MySQL • C • C++
 
 **Highlights**
 
