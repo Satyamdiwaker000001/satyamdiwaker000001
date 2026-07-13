@@ -1,0 +1,92 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0221"/>
+      <stop offset="50%" stop-color="#1A0640"/>
+      <stop offset="100%" stop-color="#0D0221"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B48CFF"/>
+      <stop offset="50%" stop-color="#D9A8FF"/>
+      <stop offset="100%" stop-color="#FF9E4F"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#B48CFF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#B48CFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+  <circle cx="180" cy="70" r="140" fill="url(#glow)"/>
+  <circle cx="1040" cy="230" r="160" fill="url(#glow)"/>
+
+  <!-- Neural network connection lines -->
+  <g stroke="#FF3B3B" stroke-width="1" opacity="0.35">
+    <line x1="60" y1="60" x2="220" y2="120"><animate attributeName="opacity" values="0.1;0.5;0.1" dur="4s" repeatCount="indefinite"/></line>
+    <line x1="220" y1="120" x2="130" y2="220"><animate attributeName="opacity" values="0.4;0.1;0.4" dur="3.5s" repeatCount="indefinite"/></line>
+    <line x1="130" y1="220" x2="300" y2="250"><animate attributeName="opacity" values="0.15;0.45;0.15" dur="5s" repeatCount="indefinite"/></line>
+    <line x1="60" y1="60" x2="130" y2="220"><animate attributeName="opacity" values="0.3;0.05;0.3" dur="4.5s" repeatCount="indefinite"/></line>
+    <line x1="900" y1="50" x2="1080" y2="90"><animate attributeName="opacity" values="0.4;0.1;0.4" dur="3.8s" repeatCount="indefinite"/></line>
+    <line x1="1080" y1="90" x2="1000" y2="200"><animate attributeName="opacity" values="0.1;0.4;0.1" dur="4.2s" repeatCount="indefinite"/></line>
+    <line x1="1000" y1="200" x2="1140" y2="240"><animate attributeName="opacity" values="0.35;0.05;0.35" dur="3.2s" repeatCount="indefinite"/></line>
+    <line x1="900" y1="50" x2="1000" y2="200"><animate attributeName="opacity" values="0.15;0.4;0.15" dur="5.2s" repeatCount="indefinite"/></line>
+  </g>
+
+  <!-- Neural nodes -->
+  <g fill="#B48CFF">
+    <circle cx="60" cy="60" r="4"><animate attributeName="r" values="3;5;3" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="220" cy="120" r="3.5" fill="#FF9E4F"><animate attributeName="r" values="2.5;4.5;2.5" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="130" cy="220" r="4"><animate attributeName="r" values="3;5;3" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="250" r="3" fill="#FF9E4F"><animate attributeName="r" values="2;4;2" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="50" r="4"><animate attributeName="r" values="3;5;3" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="90" r="3.5" fill="#FF9E4F"><animate attributeName="r" values="2.5;4.5;2.5" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="200" r="4"><animate attributeName="r" values="3;5;3" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="240" r="3" fill="#FF9E4F"><animate attributeName="r" values="2;4;2" dur="3.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Floating particles -->
+  <g fill="#D9A8FF" opacity="0.7">
+    <circle cx="400" cy="40" r="2"><animate attributeName="cy" values="40;60;40" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="470" cy="260" r="2.2"><animate attributeName="cy" values="260;235;260" dur="4.3s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="35" r="1.8"><animate attributeName="cy" values="35;55;35" dur="4.8s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="260" r="2"><animate attributeName="cy" values="260;240;260" dur="5.4s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="30" r="1.6" fill="#FF9E4F"><animate attributeName="cy" values="30;50;30" dur="4.1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Floating code snippets -->
+  <g font-family="Fira Code, monospace" font-size="13" fill="#7A5FBF" opacity="0.55">
+    <text x="40" y="270"><animate attributeName="opacity" values="0.2;0.6;0.2" dur="6s" repeatCount="indefinite"/>def train(model, data):</text>
+    <text x="990" y="270"><animate attributeName="opacity" values="0.55;0.15;0.55" dur="5.6s" repeatCount="indefinite"/>await agent.run(query)</text>
+    <text x="1000" y="35" font-size="12"><animate attributeName="opacity" values="0.15;0.5;0.15" dur="6.5s" repeatCount="indefinite"/>&#123; "status": "ok" &#125;</text>
+    <text x="30" y="35" font-size="12"><animate attributeName="opacity" values="0.5;0.15;0.5" dur="5.9s" repeatCount="indefinite"/>import numpy as np</text>
+  </g>
+
+  <!-- Main title -->
+  <text x="600" y="150" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="46" fill="url(#titleGrad)" filter="url(#softBlur)" opacity="0.0">
+    SATYAM
+    <animate attributeName="opacity" values="0;1" dur="1.6s" begin="0.2s" fill="freeze"/>
+  </text>
+  <text x="600" y="150" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="46" fill="url(#titleGrad)">
+    SATYAM
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="185" text-anchor="middle" font-family="Fira Code, monospace" font-size="15" fill="#E6D9FF" opacity="0.85">
+    Full-Stack Developer &#8226; AI Systems Builder &#8226; Python &#183; React &#183; FastAPI
+  </text>
+
+  <!-- Keyword row -->
+  <g font-family="Fira Code, monospace" font-size="12.5" fill="#FF9E4F" opacity="0.8" text-anchor="middle">
+    <text x="600" y="220">Machine Learning &#183; Neural Networks &#183; Mathematics &#183; AWS &#183; Artificial Intelligence</text>
+  </g>
+
+  <!-- Bottom divider glow line -->
+  <rect x="300" y="255" width="600" height="1.5" fill="url(#titleGrad)" opacity="0.5">
+    <animate attributeName="width" values="0;600;0" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="600;300;600" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
