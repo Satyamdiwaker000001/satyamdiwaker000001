@@ -121,77 +121,61 @@ Next
 
 <div align="center">
 
-<!-- ============ HERO BANNER (animated SVG) ============ -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/hero-banner.svg" width="100%" alt="hero banner" />
-
-<!-- If you don't want to host a custom SVG yet, use this inline capsule as a temporary hero -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:2D0A4E,100:0D0221&height=220&section=header&text=SATYAM&fontSize=70&fontColor=B48CFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Builder&descAlignY=58&descSize=18&descColor=FF9E4F" width="100%"/>
-
-</div>
-
-<!-- ============ TYPING HEADER ============ -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=B48CFF&center=true&vCenter=true&random=false&width=650&lines=Full-Stack+Developer+%7C+AI+Systems+Builder;React+%2B+Node.js+%2B+FastAPI+%2B+Python;Building+SDC+Portal+%26+FlowPilot+AI;Turning+Ideas+Into+Production+Systems)](https://git.io/typing-svg)
+<img src="./assets/hero-banner.svg" width="100%" alt="Satyam Diwaker banner" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=B48CFF&labelColor=0D0221)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FF9E4F&labelColor=0D0221)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=B48CFF&labelColor=0D0221)](mailto:YOUR_EMAIL@example.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=B48CFF&labelColor=0D0221)](https://github.com/YOUR_USERNAME)
-[![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=FF9E4F&labelColor=0D0221&logo=github)](https://github.com/YOUR_USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=A87CFF&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;React+%2B+Node.js+%2B+FastAPI;Cloud+%26+Cybersecurity+Enthusiast;Currently+Building%3A+Phishing+Detection+AI)](https://git.io/typing-svg)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-satyamdiwaker000001-181717?style=for-the-badge&logo=github&logoColor=D2AEFF&labelColor=0A0118)](https://github.com/satyamdiwaker000001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FF9A44&labelColor=0A0118)](https://www.linkedin.com/in/satyamdiwaker-71139b2b3)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=D2AEFF&labelColor=0A0118)](mailto:satyamdiwaker863@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=satyamdiwaker000001&style=for-the-badge&color=A87CFF&labelColor=0A0118)](https://github.com/satyamdiwaker000001)
 
 </div>
 
 <br/>
 
-> ⚠️ **Placeholder notice:** Fields marked `YOUR_USERNAME`, `YOUR_LINKEDIN`, `YOUR_EMAIL`, certifications, and formal experience are left as placeholders — I don't have your resume/LinkedIn PDF to pull verified facts from. Fill these in, or send me the documents and I'll regenerate this with real data plugged in.
+## Introduction
+
+I build responsive, production-grade web applications end to end — from React interfaces down to the APIs and databases behind them. My recent focus is on FastAPI-backed services that integrate AI models into practical tools, alongside a growing interest in cloud infrastructure and application security. I favor clean, maintainable code over quick hacks, and I work comfortably across a cross-functional team using Git as the backbone of collaboration. Currently a Computer Science undergraduate, building toward roles where I can own a feature from database schema to deployed interface.
 
 ---
 
-## 🧠 Professional Introduction
+## Bio
 
-I'm a final-year Computer Science undergraduate (AKTU) building production-grade systems at the intersection of full-stack engineering and applied AI. My current work spans two active systems: **SDC Portal**, a college recruitment and club-showcase platform built on React, Vite, Tailwind CSS, Node.js, and FastAPI; and **FlowPilot AI**, an AI platform with a persistent, tiered memory architecture combining PostgreSQL and Qdrant with a LangGraph-driven agent layer. I care about clean architecture, debugging systems down to root cause rather than symptoms, and closing the gap between "AI-assisted" and "AI-understood" code. Currently deepening my data structures and algorithms foundation for MNC-level technical interviews.
-
----
-
-## 🎯 Recruiter Bio
-
-Final-year CS student shipping real systems, not just tutorials — a recruitment platform with a 137-endpoint API surface and a 28-table schema, and an AI memory system spanning vector + relational storage. Comfortable across the stack: React/Vite frontends, Node/FastAPI backends, Python for AI tooling. Actively strengthening DSA fundamentals for technical interviews. Looking for an engineering role where I can keep building things that ship.
+Full-stack developer with a working AI-integrated web app in progress. Comfortable across React, Node.js, and FastAPI. Actively expanding into cloud infrastructure, containerization, and application security. Values readable code and clear collaboration over shortcuts.
 
 ---
 
-## ⚡ Current Focus
+## Current Focus
 
 <table width="100%">
 <tr>
 <td width="25%" valign="top">
 
-### 🔭 Currently Building
-- **SDC Portal** — club recruitment & showcase platform
-- **FlowPilot AI** — persistent AI memory system
+**Building**
+Phishing Detection — a web app that scores link legitimacy in real time, with AI model integration in progress.
 
 </td>
 <td width="25%" valign="top">
 
-### 📚 Currently Learning
-- Data Structures & Algorithms (interview-focused)
-- Operating Systems & Digital Logic (GATE CSE)
+**Stack in Use**
+React, FastAPI, Node.js, MySQL
 
 </td>
 <td width="25%" valign="top">
 
-### 🛠️ Current Stack
-- React · Vite · Tailwind CSS
-- Node.js · FastAPI · Python
+**Exploring**
+Docker, PostgreSQL, NestJS
 
 </td>
 <td width="25%" valign="top">
 
-### 🔬 Research Interests
-- AI agent memory architectures
-- LangGraph-based agent systems
+**Interests**
+Cloud computing, application security
 
 </td>
 </tr>
@@ -199,116 +183,86 @@ Final-year CS student shipping real systems, not just tutorials — a recruitmen
 
 ---
 
-## 👤 About Me
+## About
 
-I build end-to-end — frontend interfaces, backend APIs, and the AI layers that connect them. My approach centers on understanding systems deeply enough to debug them from first principles: tracing a broken build back to a missing bundler plugin, diagnosing file-lock conflicts in a vector database, or auditing a codebase for silent architectural gaps before they become production bugs. I use AI tooling (including agentic IDEs) to accelerate development, but I hold myself to writing and understanding the majority of the code myself — because the goal isn't a working demo, it's a system I can defend, extend, and explain.
+I'm a Computer Science undergraduate at RBMI Group of Institutions (AKTU-affiliated), building web applications with a practical, ship-it mindset. My work so far spans front-end interfaces in React, back-end logic in Node.js and FastAPI, and SQL-backed data layers. I'm drawn to problems at the intersection of web development and applied AI — my current project uses a model to flag malicious links in real time. Outside of coursework, I've taken on coordination roles in technical and cultural events, and I keep building certifications and hands-on projects to back up what I put on paper.
 
 ---
 
-## 🧰 Professional Tech Stack
+## Engineering Philosophy
+
+> Code should be legible before it's clever. A feature isn't done when it works — it's done when someone else can read it, extend it, and trust it.
+
+I prioritize:
+- **Readable code** over clever one-liners
+- **Version control discipline** — small, meaningful commits
+- **Cross-functional communication** — code is a team artifact, not a solo one
+
+---
+
+## Tech Stack
 
 <div align="center">
 
 **Programming Languages**
-![Python](https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=B48CFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=FF9E4F)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0118?style=for-the-badge&logo=javascript&logoColor=A87CFF)
+![Python](https://img.shields.io/badge/Python-0A0118?style=for-the-badge&logo=python&logoColor=FF9A44)
 
 **Frontend**
-![React](https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=B48CFF)
-![Vite](https://img.shields.io/badge/Vite-0D0221?style=for-the-badge&logo=vite&logoColor=FF9E4F)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0D0221?style=for-the-badge&logo=tailwindcss&logoColor=B48CFF)
+![HTML5](https://img.shields.io/badge/HTML5-0A0118?style=for-the-badge&logo=html5&logoColor=A87CFF)
+![CSS3](https://img.shields.io/badge/CSS3-0A0118?style=for-the-badge&logo=css3&logoColor=FF9A44)
+![React](https://img.shields.io/badge/React-0A0118?style=for-the-badge&logo=react&logoColor=A87CFF)
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-0D0221?style=for-the-badge&logo=node.js&logoColor=FF9E4F)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D0221?style=for-the-badge&logo=fastapi&logoColor=B48CFF)
-
-**AI / ML Tooling**
-![OpenCV](https://img.shields.io/badge/OpenCV-0D0221?style=for-the-badge&logo=opencv&logoColor=FF9E4F)
-![LangGraph](https://img.shields.io/badge/LangGraph-0D0221?style=for-the-badge&logo=langchain&logoColor=B48CFF)
+![Node.js](https://img.shields.io/badge/Node.js-0A0118?style=for-the-badge&logo=node.js&logoColor=FF9A44)
+![NestJS](https://img.shields.io/badge/NestJS-0A0118?style=for-the-badge&logo=nestjs&logoColor=A87CFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0118?style=for-the-badge&logo=fastapi&logoColor=FF9A44)
 
 **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=FF9E4F)
-![Qdrant](https://img.shields.io/badge/Qdrant-0D0221?style=for-the-badge&logo=qdrant&logoColor=B48CFF)
+![MySQL](https://img.shields.io/badge/MySQL-0A0118?style=for-the-badge&logo=mysql&logoColor=A87CFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0118?style=for-the-badge&logo=postgresql&logoColor=FF9A44)
 
-**Developer Tools**
-![Git](https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=FF9E4F)
-![VSCode](https://img.shields.io/badge/VS_Code-0D0221?style=for-the-badge&logo=visualstudiocode&logoColor=B48CFF)
+**Developer Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-0A0118?style=for-the-badge&logo=git&logoColor=A87CFF)
+![GitHub](https://img.shields.io/badge/GitHub-0A0118?style=for-the-badge&logo=github&logoColor=FF9A44)
+![VSCode](https://img.shields.io/badge/VS_Code-0A0118?style=for-the-badge&logo=visualstudiocode&logoColor=A87CFF)
+![Docker](https://img.shields.io/badge/Docker-0A0118?style=for-the-badge&logo=docker&logoColor=FF9A44)
+
+**Soft Skills**
+![Communication](https://img.shields.io/badge/Communication-0A0118?style=for-the-badge&labelColor=0A0118&color=A87CFF)
+![Leadership](https://img.shields.io/badge/Leadership-0A0118?style=for-the-badge&labelColor=0A0118&color=FF9A44)
+![Teamwork](https://img.shields.io/badge/Teamwork-0A0118?style=for-the-badge&labelColor=0A0118&color=A87CFF)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-0A0118?style=for-the-badge&labelColor=0A0118&color=FF9A44)
 
 </div>
 
-> *Note: This list reflects tools confirmed in active projects. Cloud, DevOps, and other categories were left out rather than guessed — add them once your resume specifics are available.*
-
 ---
 
-## 🚀 Featured Projects
+## Featured Project
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🎓 SDC Portal
-College recruitment & club-showcase platform for the Software Development Cell.
+### Phishing Detection
+*In Progress — Feb 2026 onward*
 
-**Stack:** React · Vite · Tailwind CSS · Node.js · FastAPI
+**Problem:** Users have no quick way to check whether a link is malicious before clicking it.
 
-**Key Features**
-- 137-endpoint API across 17 services
-- 28-table relational schema with RBAC groundwork
-- Polymorphic file-handling architecture
-- WebGL fluid background + macOS-style terminal landing animation
+**Solution:** A responsive web app that fetches a link, scores it in real time for likely malicious intent, and displays the result — with an AI model being integrated to improve scoring accuracy.
 
-**Learning Outcome:** Debugging real build pipelines — tracing broken Tailwind compilation to an unwired Vite plugin, fixing missing React imports, sizing an unbound Three.js canvas.
-
-**Future Scope:** Full RBAC rollout, production deployment, expanded showcase features.
-
-[![Repo](https://img.shields.io/badge/Repository-View-B48CFF?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 FlowPilot AI
-AI platform built around a persistent, tiered memory system.
-
-**Architecture:** Three-tier memory model · auto-summarization pipeline · workspace-scoped memory
-
-**Stack:** PostgreSQL · Qdrant · LangGraph · Python · React (memory panel UI)
+**Stack:** React · JavaScript · HTML · CSS · Python (FastAPI)
 
 **Key Features**
-- Vector + relational hybrid memory store
-- LangGraph agent integration
-- Auto-summarization pipeline for long-context recall
-- React-based memory inspection panel
+- Real-time link scoring on submission
+- Malicious-score display in a clean, responsive UI
+- AI model integration for improved detection accuracy (in progress)
 
-**Learning Outcome:** Diagnosing environment-specific failures (Qdrant file-lock conflicts on Windows) and designing scoped memory retrieval for agent workflows.
+**Learning Outcome:** Connecting a React front end to a Python/FastAPI service, and structuring an API around a model-backed scoring pipeline.
 
-**Future Scope:** Expanded agent tool use, multi-workspace memory isolation.
+**Future Scope:** Complete the AI model integration and expand scoring signals beyond the initial heuristic.
 
-[![Repo](https://img.shields.io/badge/Repository-View-FF9E4F?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎭 Mustache Generator AI
-Real-time computer vision webcam application.
-
-**Stack:** Python · OpenCV
-
-**Key Features**
-- Real-time face detection
-- Live accessory overlay rendering
-- Particle effects with a dark HUD interface
-
-**Learning Outcome:** Practical computer-vision pipeline design — from face detection to real-time overlay rendering.
-
-[![Repo](https://img.shields.io/badge/Repository-View-B48CFF?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-<td width="50%" valign="top">
-
-### ➕ [Add your next project]
-Slot reserved for a resume-verified project — send details and I'll fill this in with the same premium format.
+[![Repository](https://img.shields.io/badge/Repository-View-A87CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamdiwaker000001)
 
 </td>
 </tr>
@@ -316,62 +270,65 @@ Slot reserved for a resume-verified project — send details and I'll fill this 
 
 ---
 
-## 📊 GitHub Analytics
+## Achievements
+
+- Volunteered in technical and cultural events, coordinating smooth execution and participation.
+
+---
+
+## Certifications
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0D0221&title_color=B48CFF&icon_color=FF9E4F&text_color=e6e6e6&border_color=2D0A4E"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0D0221&title_color=B48CFF&text_color=e6e6e6&border_color=2D0A4E"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=0D0221&ring=B48CFF&fire=FF9E4F&currStreakLabel=B48CFF&border=2D0A4E" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D0221&color=B48CFF&line=FF9E4F&point=ffffff" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=7" width="100%"/>
-
-</div>
-
-<!-- Contribution snake — requires a GitHub Actions workflow in your repo to generate snake.svg -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> *Replace `YOUR_USERNAME` throughout this section with your real GitHub handle for these widgets to render.*
-
----
-
-## 🏆 Achievements
-
-*No achievements were supplied — this section is intentionally left empty rather than fabricated. Share resume-verified achievements and they'll be added here in the same card format.*
-
----
-
-## 📜 Certifications
-
-*No certifications were supplied — omitted per the no-fabrication rule. Send certification names/issuers and they'll be rendered as premium badge cards.*
-
----
-
-## 💬 Professional Quote
-
-> *"A system that cannot explain its own state is not intelligent — it is merely fast. Memory is what turns computation into understanding."*
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_USERNAME-B48CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF9E4F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-B48CFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0221)](mailto:YOUR_EMAIL@example.com)
+![Java Basic](https://img.shields.io/badge/Java_Basic-0A0118?style=for-the-badge&labelColor=0A0118&color=A87CFF)
+![MySQL Essential Training](https://img.shields.io/badge/MySQL_Essential_Training-0A0118?style=for-the-badge&labelColor=0A0118&color=FF9A44)
+![MySQL Data Analysis](https://img.shields.io/badge/MySQL_Data_Analysis-0A0118?style=for-the-badge&labelColor=0A0118&color=A87CFF)
+![HTML Essential Training](https://img.shields.io/badge/HTML_Essential_Training-0A0118?style=for-the-badge&labelColor=0A0118&color=FF9A44)
+![Deloitte Job Simulation](https://img.shields.io/badge/Deloitte_Australia_Job_Simulation-0A0118?style=for-the-badge&labelColor=0A0118&color=A87CFF)
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:2D0A4E,100:0D0221&height=100&section=footer" width="100%"/>
+## GitHub Analytics
 
-<sub>Built with intent, not templates.</sub>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyamdiwaker000001&show_icons=true&theme=dark&bg_color=0A0118&title_color=A87CFF&icon_color=FF9A44&text_color=e6e6e6&border_color=2D0A4E"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamdiwaker000001&layout=compact&theme=dark&bg_color=0A0118&title_color=A87CFF&text_color=e6e6e6&border_color=2D0A4E"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamdiwaker000001&theme=dark&background=0A0118&ring=A87CFF&fire=FF9A44&currStreakLabel=A87CFF&border=2D0A4E" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamdiwaker000001&theme=react-dark&bg_color=0A0118&color=A87CFF&line=FF9A44&point=ffffff" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=satyamdiwaker000001&theme=darkhub&no-frame=true&row=1&column=7" width="100%"/>
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/satyamdiwaker000001/satyamdiwaker000001/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+---
+
+## Quote
+
+> *A system only proves its logic once it survives contact with a user who does exactly what you didn't expect.*
+
+---
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-satyamdiwaker000001-A87CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0118)](https://github.com/satyamdiwaker000001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF9A44?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0118)](https://www.linkedin.com/in/satyamdiwaker-71139b2b3)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-A87CFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0118)](mailto:satyamdiwaker863@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0118,50:170A33,100:0A0118&height=90&section=footer" width="100%"/>
 </div>
